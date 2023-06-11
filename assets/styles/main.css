@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  color: blue;
+  outline: none !important;
+}
+
+.legend {
+  font-size: 16px;
+}
+
+.x-axis-group {
+  font-size: 14px;
+}

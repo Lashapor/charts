@@ -1,0 +1,49 @@
+{
+  "records": [
+    {
+      "name": "Physician",
+      "men": 65,
+      "women": 35
+    },
+    {
+      "name": "Dentist",
+      "men": 66,
+      "women": 44
+    },
+    {
+      "name": "Psychiatrist",
+      "men": 54,
+      "women": 46
+    },
+    {
+      "name": "Corporate Lawyer",
+      "men": 60,
+      "women": 40
+    },
+    {
+      "name": "CEO",
+      "men": 90,
+      "women": 10
+    },
+    {
+      "name": "Investment Banker",
+      "men": 76,
+      "women": 24
+    },
+    {
+      "name": "IT Manager",
+      "men": 80,
+      "women": 20
+    },
+    {
+      "name": "Petroleum Engineer",
+      "men": 85,
+      "women": 15
+    },
+    {
+      "name": "Air Traffic Controller",
+      "men": 82,
+      "women": 18
+    }
+  ]
+}
